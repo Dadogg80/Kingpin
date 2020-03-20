@@ -1,0 +1,6 @@
+.DS_Store
+
+*zip
+
+/* private files */
+.secret
